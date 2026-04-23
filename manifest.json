@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "PWA Template Responsif",
-  "short_name": "PWA Demo",
+  "name": "Engleash",
+  "short_name": "Engleash",
   "description": "Aplikasi PWA responsif untuk demonstrasi template dasar Progressive Web App dengan dukungan offline dan installable.",
   "start_url": "./index.html",
   "scope": "./",
@@ -50,5 +50,12 @@
   "categories": [
     "productivity",
     "utilities"
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.example.app",
+      "id": "com.example.app"
+    }
   ]
 }
