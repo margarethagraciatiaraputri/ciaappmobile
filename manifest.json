@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Engleash",
-  "short_name": "Engleash",
+  "name": "PWA Template Responsif",
+  "short_name": "PWA Demo",
   "description": "Aplikasi PWA responsif untuk demonstrasi template dasar Progressive Web App dengan dukungan offline dan installable.",
   "start_url": "./index.html",
   "scope": "./",
@@ -54,8 +54,13 @@
   "related_applications": [
     {
       "platform": "play",
-      "url": "https://play.google.com/store/apps/details?id=com.example.app",
-      "id": "com.example.app"
+      "url": "https://play.google.com/store/apps/details?id=com.example.pwa",
+      "id": "com.example.pwa"
+    },
+    {
+      "platform": "windows",
+      "url": "https://www.microsoft.com/store/apps/example-pwa"
     }
-  ]
+  ],
+  "prefer_related_applications": false
 }
