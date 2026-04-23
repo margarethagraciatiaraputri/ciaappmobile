@@ -62,5 +62,7 @@
       "url": "https://www.microsoft.com/store/apps/example-pwa"
     }
   ],
-  "prefer_related_applications": false
-}
+  "prefer_related_applications": false,
+  "edge_side_panel": {
+    "preferred_width": 400
+  }
